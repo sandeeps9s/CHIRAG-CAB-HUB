@@ -1,0 +1,6 @@
+{
+  "name": "Chirag Cab Hub",
+  "description": "Premium chauffeur-driven cab and outstation taxi service based in Agra, Uttar Pradesh, India. Specializing in Maruti Suzuki Ertiga cabs for Delhi, Jaipur, Mathura, Vrindavan, airport transfers, and North India tours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
